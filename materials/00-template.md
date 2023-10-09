@@ -13,7 +13,7 @@ title: Template Page
 
 Headings for material sections start at level 2. 
 
-More guidelines for content available here: https://cambiotraining.github.io/quarto-course-template/materials/02-content_guidelines.html
+More guidelines for content available here: [Course Development Guidelines](https://cambiotraining.github.io/quarto-course-template/materials/02-content_guidelines.html).
 
 
 ## Summary
